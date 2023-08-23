@@ -5,3 +5,4 @@
 Освоил логику. 
 Познал основы бизнеса, бизнес метрики, гипотезы и когортный анализ.
 Начал уверенно постигать мир SQL и успешно сдал курсовую работу в metabase. Постигаю теорию вероятности и статистику.
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
