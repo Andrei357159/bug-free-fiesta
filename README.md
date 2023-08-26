@@ -10,7 +10,7 @@
 -- Инструменты анализа данных: ''SQL'', ''Excel''
 
 -- Система управления базами данных: ''PostgreSQL''
-## Проекты
+## Тестовые задания:
 <p> Тестовое задание Excel[Тестовое задание Exel.xlsx](https://github.com/Andrei357159/bug-free-fiesta/files/12422174/Exel.xlsx) </p>
 
 
